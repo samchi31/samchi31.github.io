@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git Blog 만들기
-descryption: Git Blog 만드는 법 정리
+description: Git Blog 만드는 법 정리
 categories: github
 tag: github
 ---
