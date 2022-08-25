@@ -1,8 +1,7 @@
 ---
 layout: post
 title: first post
-description: asdf
-date: 2022-08-25 10:13:08
+description: 되는거냐고
 categories: Java
 tags: java
 ---
