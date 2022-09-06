@@ -15,6 +15,7 @@ tags: designpattern
   - 팩토리메소드(Factory Method)
   - 프로토타입(Prototype)
   - 싱글톤(Singleton)
+
 ## 구조(Structural) 패턴
   - 어댑터(Adapter)
   - 브릿지(Bridge)
@@ -23,6 +24,7 @@ tags: designpattern
   - 퍼사드(Facade)
   - 플라이웨이트(Flyweight)
   - 프록시(Proxy)
+
 ## 행위(Behavioral) 패턴
   - 책임 연쇄(Chain-of-Responsibility)
   - 커맨드(Command)
@@ -36,4 +38,4 @@ tags: designpattern
   - 템플릿 메소드(Template Method)
   - 비지터(Visitor)
   
-## mvc 와 mvvm 패턴은 소프트웨어 디자인 패턴이라고 한다. 위의 패턴을 조합한 복합 패턴이라고 한다.
+#### mvc 와 mvvm 패턴은 소프트웨어 디자인 패턴이라고 한다. 위의 패턴을 조합한 복합 패턴이라고 한다.
