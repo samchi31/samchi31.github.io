@@ -1,0 +1,15 @@
+# github를 이용해서 프로젝트 협업 해보기
+
+## Collaborators 추가하기
+- Repository를 생성하여 Settings에서 팀원들의 github 계정을 추가할 수 있다
+- 관리자를 추가하는 방식이며 branch를 따로 생성하여 main branch와 merge 시켜 작업한다
+- merge 시 pull request를 작성하여 팀원들과 코드를 승인 여부를 확인할 수 있다
+- Repository가 private일 시 최대 3명까지 초대가능하다 (총 네명)
+- 직접적으로 push, pull 권한을 가지고 있어 주의해야한다
+
+## Contributor로 참가하기 (Repository를 fork하여 작업하기)
+- 생성된 Repository를 각자 fork하여 작업한다
+- 오픈소스 작업 시에 주로 사용된다
+- fork한 Repository를 clone하여 작업 후 원본 Repository 말고 fork한 Repository에 push한다
+- pull request를 작성하면 원본 Repoistory에 작성한 pull request가 추가된다
+- 원본 관리자가 확인 후 merge 시킬 지 판단하여 소스를 병합한다
