@@ -1,3 +1,14 @@
+---
+layout: post
+title: 서블릿
+description: 서블릿 정리
+categories: cs
+tags: 
+- java
+- cs
+- servlet
+---
+
 # 서블릿 (Servlet)
 - Web Application에서 Client의 요청(request)을 처리하고 응답(response)을 Client에게 전송
 - init() : 서블릿 객체 초기화
