@@ -1,3 +1,13 @@
+---
+layout: post
+title: Counting 정렬
+description: Counting 정렬 알고리즘 
+categories: Java
+tags: 
+- java
+- cs
+---
+
 # Counting 정렬
 - 시간측면에서 성능이 좋다 (퀵,힙,합병 정렬보다 좋다)
 - counting 배열을 하나 더 만들어야하고 수의 범위가 클 경우 메모리 낭비가 심해진다
